@@ -10,15 +10,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/417fbf99-8a60-4127-81d9-379caaf0b1f8)
+
 
 ## OUTPUT
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/6ceeefa2-6b91-4b64-b50a-a967427dcd15)
 
 
 ## RESULT
@@ -47,17 +43,21 @@ Write a C Program to check whether the two numbers are equal or not using simple
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/0b7f09ee-9596-4147-8ecf-aa3f82d26d76)
+## input
+![image](https://github.com/user-attachments/assets/15fa5c78-3417-480a-aeef-9783cfcd24cf)
 
+![image](https://github.com/user-attachments/assets/15aa8bf6-d8c3-4566-b036-848a9e63ee5d)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/4e6b9a74-f2d2-43ec-b943-508d92e71bf8)
+![image](https://github.com/user-attachments/assets/41a8adf1-a524-4839-beee-fa9cb70ef6a7)
+
            
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
  
- 
-
-
 # EX-18-STRING-LOWERCASE-CONVERSION
 ## AIM
 Write a C Program to convert the given string into lowercase.
@@ -70,9 +70,14 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/aaddc154-d9c3-44e7-b0a9-28e927b49e7f)
+
+## input:
+![image](https://github.com/user-attachments/assets/8c75de0e-ee64-4e35-bccd-19c7be61f835)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/54936339-9b04-4044-8bae-b147fcf0e149)
 
 
 
@@ -95,12 +100,13 @@ Write a C Program to count the total number of words in a given string using do 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/fc5160f4-f610-4f57-a633-6ddcb084082e)
+## input
+![image](https://github.com/user-attachments/assets/11528b74-7a97-4f7e-b83b-1b2e62471235)
 
 ## OUTPUT
 
-
-
-
+![image](https://github.com/user-attachments/assets/a68cebe1-15d4-42ba-b84e-deb83eb78408)
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
@@ -130,9 +136,14 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/7f256ab0-6d68-4a65-8cd9-c20798ed1424)
+## input
+![image](https://github.com/user-attachments/assets/02540b80-575d-45cf-a49b-bfe23e28027c)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/70c66c26-3e40-46d9-8aa4-be986e034095)
  
+![image](https://github.com/user-attachments/assets/f9f17ec0-8e64-4531-9b7c-0fa2df904c1c)
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
